@@ -25,3 +25,4 @@ El proyecto está organizado en varios paquetes, cada uno de los cuales se centr
 1. Clona el repositorio en tu máquina local: 
 ```bash 
 git clone https://github.com/usuario/EjerciciosDepuracion.git
+## Actualizacion desde github
