@@ -3,7 +3,7 @@ package ejercicios.depuracion;
 import java.util.Scanner;
 public class Ejemplo1While {
 
-private int suma, num;
+private int suma, contador;
 public Ejemplo1While() {
     this.suma = 0;
     this.num = 0;
